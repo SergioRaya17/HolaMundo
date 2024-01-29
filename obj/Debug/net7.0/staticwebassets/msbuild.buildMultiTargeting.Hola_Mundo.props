@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Hola_Mundo.props" />
+</Project>
